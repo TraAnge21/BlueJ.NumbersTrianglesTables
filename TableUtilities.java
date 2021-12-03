@@ -3,6 +3,7 @@
 public class TableUtilities {
     public static String getSmallMultiplicationTable() {
 
+
         return null;
     }
 
